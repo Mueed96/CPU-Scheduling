@@ -1,0 +1,33 @@
+.root {
+    -fx-font-family: "Arial";
+}
+
+.label {
+    -fx-font-size: 16px;
+}
+
+.text-field {
+    -fx-pref-width: 80px;
+}
+
+.list-view {
+    -fx-pref-height: 100px;
+    -fx-pref-width: 500px;
+}
+
+.table-view {
+    -fx-pref-height: 200px;
+    -fx-pref-width: 700px;
+}
+
+.action-button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+}
+
+.statistics-label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333;
+}
